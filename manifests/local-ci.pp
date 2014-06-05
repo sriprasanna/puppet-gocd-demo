@@ -1,0 +1,7 @@
+node goserver{
+  
+}
+
+node goagent{
+  
+}
